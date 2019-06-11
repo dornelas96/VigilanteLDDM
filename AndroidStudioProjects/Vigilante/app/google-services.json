@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139374824078",
+    "firebase_url": "https://vigilante-4b4de.firebaseio.com",
+    "project_id": "vigilante-4b4de",
+    "storage_bucket": "vigilante-4b4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139374824078:android:0310a7e7dfa8fa69",
+        "android_client_info": {
+          "package_name": "com.example.vigilante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139374824078-671ddrglhcve0ie8dkdu5s5omiq4g7cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMq2KCqFldolVAQrPw9VESb4_n0ZZC5YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139374824078-671ddrglhcve0ie8dkdu5s5omiq4g7cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
